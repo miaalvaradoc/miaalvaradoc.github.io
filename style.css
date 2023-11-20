@@ -2,7 +2,7 @@
 
 .navbar {
   padding: 2rem;
-  background-color: #f5f6f7;
+  background-color: rgb(184, 171, 115);
 }
 
 .navbar-collapse {
@@ -25,13 +25,13 @@ h1 {
 }
 
 .seccion-oscura {
-  color: white;
-  background-color: #1b1b32;
+  color: rgb(250, 249, 249);
+  background-color: #32261b;
 }
 
 .seccion-clara {
   color: black;
-  background-color: white;
+  background-color: rgb(194, 190, 170);
 }
 
 .seccion-titulo {
@@ -65,7 +65,7 @@ h1 {
 /* Seccion Hero */
 
 .hero {
-  background-color: #f5f6f7;
+  background-color: #f0ebb9;
   min-height: 450px;
   text-align: center;
 }
